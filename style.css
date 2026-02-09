@@ -156,3 +156,39 @@ body{
 .spanTag{
     font-weight: bold;
 }
+
+.phone{
+    margin: 50px 600px;
+    width: 350px;
+    text-align: center;
+    border: 1px solid lightgray;
+    border-radius: 16px;
+    box-sizing: border-box;
+}
+.phone-img{
+    width: 300px;
+}
+/* .phone input{
+    width: 100%;
+    padding: 20px 30px;
+    box-sizing: border-box;
+} */
+.phone-field{
+    width: 80%;
+    margin-bottom: 30px;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    border: 1px solid lightgrey;
+    border-radius: 14px;
+}
+
+.coninue-btn{
+    width: 80%;
+    background-color: rgb(109, 54, 229);
+    border: none;
+    padding: 14px 30px;
+    font-size: 16px;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 20px;
+}
